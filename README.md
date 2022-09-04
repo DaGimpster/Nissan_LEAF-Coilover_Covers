@@ -13,6 +13,6 @@ These settings worked well for me, adjust to your preferences:
 - Fill type: hexagon
 
 # Images
-![name-of-you-image](https://github.com/DaGimpster/Nissan_LEAF-Coilover_Covers/tree/main/Images/SketchUp-Left_Side.jpg)
-![name-of-you-image](https://github.com/DaGimpster/Nissan_LEAF-Coilover_Covers/tree/main/Images/Left_Side.jpg)
-![name-of-you-image](https://github.com/DaGimpster/Nissan_LEAF-Coilover_Covers/tree/main/Images/Right_Side.jpg)
+![name-of-you-image](https://github.com/DaGimpster/Nissan_LEAF-Coilover_Covers/blob/main/Images/SketchUp-Left_Side.jpg?raw=true)
+![name-of-you-image](https://github.com/DaGimpster/Nissan_LEAF-Coilover_Covers/blob/main/Images/Left_Side.jpg?raw=true)
+![name-of-you-image](https://github.com/DaGimpster/Nissan_LEAF-Coilover_Covers/blob/main/Images/Right_Side.jpg?raw=true)
