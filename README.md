@@ -12,4 +12,7 @@ These settings worked well for me, adjust to your preferences:
 - Fill density: 10%
 - Fill type: hexagon
 
-# Pictures
+# Images
+![name-of-you-image](https://github.com/DaGimpster/Nissan_LEAF-Coilover_Covers/Images/SketchUp-Left_Side.jpg)
+![name-of-you-image](https://github.com/DaGimpster/Nissan_LEAF-Coilover_Covers/Images/Left_Side.jpg)
+![name-of-you-image](https://github.com/DaGimpster/Nissan_LEAF-Coilover_Covers/Images/Right_Side.jpg)
